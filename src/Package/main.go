@@ -1,6 +1,6 @@
-package main
+package main 
 
-import "sayHello.go"
+import "package/Helper"
 
 func main(){
 	helper.SayHello("yulius")
